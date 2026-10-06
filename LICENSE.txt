@@ -1,0 +1,46 @@
+GHOST STORY BUREAU — PROPRIETARY LICENSE
+
+Copyright (c) 2026 spinjitsu12. All rights reserved.
+
+This notice applies to the original Ghost Story Bureau game code, stories,
+characters, artwork, animations, app icon, interface, and documentation, to the
+extent that spinjitsu12 holds rights in those materials (the "Game Materials").
+It does not apply to the separately licensed third-party components identified
+in THIRD_PARTY_NOTICES.md, or to material outside the rights holder's control.
+
+PERSONAL PLAY
+
+spinjitsu12 grants you a limited, non-exclusive permission to download an
+officially distributed build, install it on your own devices, make the local
+copies and browser caches necessary to run it, receive official updates, and
+play it for your personal, non-commercial use. Your own gameplay save files may
+be retained and backed up. Ownership of the Game Materials is not transferred.
+
+EXPRESS WRITTEN PERMISSION REQUIRED
+
+Except for the personal-use permission above, rights expressly granted by a
+separate license, and rights that applicable law does not allow to be restricted,
+you may not copy, modify, adapt, translate, extract for reuse, create derivative
+works from, redistribute, republish, sublicense, sell, or commercially use the
+Game Materials without spinjitsu12's prior express written permission.
+
+Access to the source code is not permission to edit, reuse, redistribute, or
+submit modified versions. No open-source license is granted. Keep the copyright
+and licensing notices intact in authorized copies. Additional permission must
+be obtained directly from spinjitsu12 and describe the authorized use.
+
+THIRD-PARTY AND HOSTING TERMS
+
+Third-party music, fonts, the Godot engine, and its dependencies retain their
+own licenses. This notice does not restrict rights those licenses grant or imply
+that spinjitsu12 owns those components. See THIRD_PARTY_NOTICES.md and the
+included original notices. Hosting platforms may require additional permissions
+under their own terms; a public GitHub repository, for example, permits viewing
+and forking within GitHub. Keep proprietary source private when publishing
+playable builds.
+
+WARRANTY
+
+The beta is provided "as is", without warranties to the extent permitted by law.
+To the extent permitted by law, the rights holder is not liable for damages
+arising from use of the beta. Mandatory legal rights are unaffected.
