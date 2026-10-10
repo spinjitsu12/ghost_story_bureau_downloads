@@ -1,4 +1,4 @@
-# ghost_story_bureau_downloads
+# ghost_story_rpg
 
 A pixel-art horror management game. Hire independent investigators,
    prepare teams, and build survivor manuals.
